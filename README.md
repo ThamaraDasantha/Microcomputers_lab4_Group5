@@ -48,6 +48,8 @@ Finally, after the making of PCB, the components were soldered into the board.
 <img src="LAB4_1.png" height="500" width="500" >
 
 ## Results
+
+We made the PCB design and able to get the output of the two DC motors according to the switch state diagram below.
 ## Discussion & Conclusion
 
 In this experiment, mainly we were able to know how to use the knowledge of interrupts and other programming techniques of PIC16F877A to develop a small water leveling controlling system of a water tank. Before manufacturing the PCB we check the circuit by simulating on proteus. As there are no sensors in proteus we used active latched switches instead. Then made it on PCB. However, the task made easy with lecture notes and did well with the help of group members. 
