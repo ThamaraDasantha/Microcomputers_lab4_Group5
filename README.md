@@ -1,6 +1,14 @@
 # Microcomputers_lab5
 ## Introduction 
 
+The primary purpose of this lab is to construct a modest water level regulating system for a water tank using the knowledge of interrupts and other programming techniques of PIC16f877A. PIC16F877A is a pic microcontroller that is utilized in a variety of tasks. This microcontroller also has a significant amount of use in the circuits of digital electronics. 
+
+The PIC16F877A features 256 bytes of EEPROM data memory, an ICD, 2 Comparators, 8 channels of 10-bit Analog-to-Digital converter, 2 capture/compare/PWM functions, and the synchronous serial port can be configured as either 3-wire Serial Peripheral Interface (SPI) or the 2-wire Inter-Integrated Circuit (I²C) bus and a Universal Asynchronous Receiver Transmitter (USART). PIC16f877A is utilized in an extremely extensive variety of different kinds of electronics in the industry. It finds use in things like home automation, remote sensors, safety and security equipment, and a wide variety of industrial instruments.
+
+Knowledge of making PCB is also applied to this project for a better output. A printed circuit board, or PCB, is used to hold electronic components mechanically and link them electrically via conductive channels carved from copper bonded over an insulative substrate. PCBs may have one side, two sides, or more layers, depending on their design.
+
+The designed electronic circuit is able to control the water level of a tank with the help of two water pumps. One water pump is to control the water inlet of the tank and the other one is for the water outlet. To detect the water level of the tank, three digital water detecting sensors were utilized. The microcontroller has programmed to read the sensor signals and operate the water pumps according to a given operation table.
+
 ## The PCB design
 
 
