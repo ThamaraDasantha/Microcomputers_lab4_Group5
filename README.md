@@ -10,8 +10,9 @@ Knowledge of making PCB is also applied to this project for a better output. A p
 The designed electronic circuit is able to control the water level of a tank with the help of two water pumps. One water pump is to control the water inlet of the tank and the other one is for the water outlet. To detect the water level of the tank, three digital water detecting sensors were utilized. The microcontroller has programmed to read the sensor signals and operate the water pumps according to a given operation table.
 
 ## The PCB design
+
 <div style="width:40px ; height:40px">
-![The PCB design](https://github.com/Brownbear2222/Microcomputers_lab5/blob/ad16d36bf75f88d35d954a3c9ce42b28f0ade424/LAB4_pcb.png "LAB4_pcb.png")
+  ![The PCB design](https://github.com/Brownbear2222/Microcomputers_lab5/blob/ad16d36bf75f88d35d954a3c9ce42b28f0ade424/LAB4_pcb.png "LAB4_pcb.png")
 <div>
 
 
