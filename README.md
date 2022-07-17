@@ -12,7 +12,7 @@ The designed electronic circuit is able to control the water level of a tank wit
 ## The PCB design
 
 
-<img src="LAB4_pcb.png" height="40" width="40" >
+<img src="LAB4_pcb.png" height="60" width="60" >
 
 ## Procedure
 
