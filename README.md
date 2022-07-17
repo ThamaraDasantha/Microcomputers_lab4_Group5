@@ -1,4 +1,4 @@
-# Microcomputers_lab5
+# Microcomputers_lab4
 ## Objectives
 
 The main objective of this lab is to develop a small water level controlling system of a water tank using the knowledge of interrupts and other programming techniques of PIC16F877A
