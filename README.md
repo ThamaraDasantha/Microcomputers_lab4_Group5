@@ -49,8 +49,7 @@ Finally, after the making of PCB, the components were soldered into the board.
 
 ## Results
 
-
-
+We made the PCB design and able to get the output of the two DC motors according to the switch state diagram below.
 
 <table>
    <thead>
