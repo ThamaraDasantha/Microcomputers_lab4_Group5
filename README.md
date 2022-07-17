@@ -36,6 +36,10 @@ To start with this, we made the circuit design using proteus PCB design tool. Th
 Finally, after the making of PCB, the components were soldered into the board.
 
 ## An image of the real implementation 
+
+<img src="LAB4_2.png" height="500" width="500" >
+<img src="LAB4_1.png" height="500" width="500" >
+
 ## Results
 ## Discussion & Conclusion
 
