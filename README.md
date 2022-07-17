@@ -52,6 +52,6 @@ In this experiment, mainly we were able to know how to use the knowledge of inte
 
 ## The code
 
-It is reference links [Code][myexample]
+[Code][myexample]
 
-[myexample]: "markdown emphasis tutorials"
+[myexample]: "lab4_1.c"
