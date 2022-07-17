@@ -7,7 +7,6 @@
 
 ## Procedure
 
-
 The lab activity was done in two steps.
 The first one was software simulation. This was done in proteus. For the simulation first we built the code in MP lab x ide. After that, the circuit was built in proteus. Then the code was uploaded to the proteus as hex file. Next, we checked the outputs and verified the code.
 As the second step the hardware imputation, this was done in a printed circuit board. This step had to be done in two steps.
